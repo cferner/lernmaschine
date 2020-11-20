@@ -68,5 +68,3 @@ highlight_name: false
 ---
 
 I am a PhD student at the Department of Computer Science at the University of Salzburg and member of the Applied Data Science Lab at the University of Applied Sciences in Salzburg, Austria. My reseach interests include natural language processing, machine learning and data science in general.
-
-# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
