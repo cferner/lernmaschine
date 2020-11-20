@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Cornelia is a PhD student at the Department of Computer Science at the University of Salzburg and member of the Applied Data Science Lab at the University of Applied Sciences in Salzburg, Austria.
+bio: Cornelia is a PhD student at the Department of Computer Science at the University of Salzburg. 
 
 interests:
 - Natural Language Processing
@@ -67,4 +67,4 @@ highlight_name: false
 #- Visitors
 ---
 
-I am a PhD student at the Department of Computer Science at the University of Salzburg and member of the Applied Data Science Lab at the University of Applied Sciences in Salzburg, Austria. My reseach interests include natural language processing, machine learning and data science in general.
+I am currently a PhD student at the Department of Computer Science at the University of Salzburg. I am affiliated with both the [Applied Data Science Lab](https://its.fh-salzburg.ac.at/forschung/applied-data-science-lab/) and the [Lab for Intelligent Data Analytics](https://ida-lab.sbg.ac.at/) in Salzburg, Austria.
