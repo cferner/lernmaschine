@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Teaching"
-subtitle = ""
+subtitle = "Salzburg University of Applied Sciences"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -25,7 +25,7 @@ date_format = "2006"
   url = ""
   certificate_url = ""
   date_start = "2017-01-01"
-  date_end = "2020-01-01"
+  date_end = "2021-01-01"
   description = "ITS Master (Data Science and Analytics minor)"
   
 [[item]]
@@ -35,7 +35,7 @@ date_format = "2006"
   url = ""
   certificate_url = ""
   date_start = "2018-01-01"
-  date_end = "2020-01-01"
+  date_end = "2021-01-01"
   description = "ITS Master (Data Science and Analytics minor)"
   
 [[item]]

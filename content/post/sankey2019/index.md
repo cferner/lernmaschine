@@ -3,7 +3,7 @@
 
 title: "Data Science: Python or R?"
 subtitle: ""
-summary: "According to Kaggle users: What is the most important programming language in data science - when it comes to frequency of use and recommended go-to language?"
+summary: "According to Kaggle users: What is the dominating programming language in data science - when it comes to frequency of use and recommended go-to language?"
 authors: []
 tags: ["data science"]
 categories: []
@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-**What is the most important programming language in data science - when it comes to frequency of use and recommended go-to language?**
+**What is the dominating programming language in data science - when it comes to frequency of use and recommended go-to language?**
 
 In 2018, the [Kaggle](kaggle.com) community was asked to answer a set of questions on preferred data science tools and methods, as well as professional experience. 
 An overwhelming number of 23860 users from around the world submitted their answers. The following insights are based on the [publicly available dataset](https://www.kaggle.com/kaggle/kaggle-survey-2018).

@@ -27,6 +27,7 @@ publishDate: 2020-11-23T19:20:17+01:00
 
 authors: []
 tags: ["data science"]
+categories: ["talk"]
 
 # Is this a featured talk? (true/false)
 featured: false

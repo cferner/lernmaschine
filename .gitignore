@@ -1,5 +1,6 @@
 # IDEs
 .idea/
+.ipynb_checkpoints
 
 # Hugo
 /resources/

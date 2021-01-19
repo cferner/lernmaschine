@@ -34,6 +34,7 @@ all_day: false
 publishDate: 2020-11-23T19:29:36+01:00
 
 authors: []
+categories: ["workshop"]
 tags: ["data science"]
 
 # Is this a featured talk? (true/false)

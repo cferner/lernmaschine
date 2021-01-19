@@ -27,6 +27,7 @@ all_day: false
 publishDate: 2020-11-23T19:59:42+01:00
 
 authors: []
+categories: ["talk"]
 tags: ["natural language processing", "research"]
 
 # Is this a featured talk? (true/false)
