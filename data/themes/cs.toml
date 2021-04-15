@@ -8,11 +8,11 @@ light = true
 primary = "#b38d97" # "#9a8c98"
 
 # Menu
-menu_primary = "#4a4e69" # header zeile
+menu_primary = "#3b3e54" # header zeile
 menu_text = "#fff"
 menu_text_active = "#fff"
 menu_title = "#fff"  # not available (would be company name)
 
 # Home sections
 home_section_odd = "#FFF"
-home_section_even = "#f5f2f5" # abschnitte auf startseite
+home_section_even = "#f8f8f9" #"#f5f2f5" # abschnitte auf startseite

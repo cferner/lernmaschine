@@ -18,15 +18,15 @@ bio: Cornelia is a PhD student at the Department of Computer Science at the Univ
 
 interests:
 - Natural Language Processing
-- Representation Learning
+- Machine Learning
 - Data Science
 
 education:
   courses:
-  - course: MSc in Information Technology and Systems Management
+  - course: MSc Information Technology and Systems Management
     institution: Salzburg University of Applied Sciences
     year: 2012
-  - course: BSc in Information Technology and Systems Management
+  - course: BSc Information Technology and Systems Management
     institution: Salzburg University of Applied Sciences
     year: 2010
 
