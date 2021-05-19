@@ -24,7 +24,7 @@ abstract: "Feature selection is the task of systematically reducing the number o
 # Summary. An optional shortened abstract.
 summary: "We suggest a task-oriented approach to select natural language features based on the weights learned by a Max Entropy classifier trained on the classification task."
 
-tags: ["data science", "natural language processing"]
+tags: ["data science", "machine learning", "natural language processing"]
 categories: ["natural language processing", "research"]
 featured: false
 

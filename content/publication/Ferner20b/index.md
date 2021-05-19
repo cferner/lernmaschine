@@ -24,7 +24,7 @@ abstract: "In the event of a natural disaster, geo-tagged Tweets are an immediat
 # Summary. An optional shortened abstract.
 summary: "Immediate disaster response benefits from a fully automated process for interpreting topic models and extracting disaster relevant information. We automatically generate seed words using older Tweets from the same geographic area for guiding the model."
 
-tags: ["natural language processing", "geospatial analysis", "disaster management", "social media", "topic modeling"]
+tags: ["natural language processing", "machine learning", "geospatial analysis", "disaster management", "social media", "topic modeling"]
 categories: ["natural language processing", "research"]
 featured: false
 

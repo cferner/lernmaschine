@@ -24,7 +24,7 @@ abstract: "Produktbewertungen sind eine wertvolle Informationsquelle sowohl für
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["natural language processing", "information extraction", "sentiment analysis"]
+tags: ["natural language processing", "machine learning", "information extraction", "sentiment analysis"]
 categories: ["natural language processing", "research"]
 featured: false
 

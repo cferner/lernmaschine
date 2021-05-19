@@ -24,7 +24,7 @@ abstract: "This paper aims at identifying sequences of words related to specific
 # Summary. An optional shortened abstract.
 summary: "We combine a Maximum Entropy classifier with a Hidden Markov Model for exploiting the inherent document structure for topic classification."
 
-tags: ["natural language processing", "small data", "hidden markov model", "topic classification"]
+tags: ["natural language processing", "small data", "machine learning", "hidden markov model", "topic classification"]
 categories: ["natural language processing", "research"]
 featured: false
 
