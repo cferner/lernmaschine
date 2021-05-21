@@ -20,6 +20,7 @@ interests:
 - Natural Language Processing
 - Machine Learning
 - Data Science
+- Python
 
 education:
   courses:

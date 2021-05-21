@@ -2,17 +2,25 @@
 name = "cs"
 
 # Is theme light or dark?
-light = true
+#light = true
 
 # Primary; links, highlights etc.
-primary = "#b38d97" # "#9a8c98"
+primary = "#b38d97" 
 
 # Menu
-menu_primary = "#3b3e54" # header zeile
+menu_primary = "#55646b" # header zeile
 menu_text = "#fff"
 menu_text_active = "#fff"
 menu_title = "#fff"  # not available (would be company name)
 
 # Home sections
 home_section_odd = "#FFF"
-home_section_even = "#f8f8f9" #"#f5f2f5" # abschnitte auf startseite
+home_section_even = "#f0f1f2" # abschnitte auf startseite
+
+# Links
+#link = "#b38d97"
+#link_hover = "#b38d97"
+link_decoration = "underline"
+
+[dark]
+  menu_primary = "#23252f"
